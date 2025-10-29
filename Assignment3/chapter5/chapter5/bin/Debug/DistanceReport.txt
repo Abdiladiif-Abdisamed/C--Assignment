@@ -1,0 +1,8 @@
+Distance Report
+----------------------
+Speed: 40 miles/hour
+Hours: 1
+
+After hour 1, the vehicle has traveled 40 miles.
+
+Total Distance: 40 miles
